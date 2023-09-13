@@ -1,6 +1,6 @@
 // import React from 'react';
 
-const Header = () => {
+export const Header = () => {
     return (
         <header>
             <a href="index.html" className="header-brand">Christopher</a>
@@ -16,4 +16,4 @@ const Header = () => {
     );
 };
 
-export default Header;
+
